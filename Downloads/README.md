@@ -1,1 +1,0 @@
-# LocalMe - The Localization Software
